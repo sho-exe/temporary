@@ -35,7 +35,7 @@ public class DatabaseTester {
 
     public static void main(String[] args) {
         // Example Usage (Adjust URL, User, and Password for your specific DB)
-        String dbUrl = "jdbc:postgresql://localhost:5432/my_database";
+        String dbUrl = "jdbc:mysql://localhost:3306/your_database_name";
         String dbUser = "postgres";
         String dbPass = "secure_password";
 
